@@ -1,10 +1,10 @@
-# HBO Analysis
+# HBO and HBO Max Analysis
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-This is my analysis of movies and tv shows from HBO
+This is my analysis of movies and tv shows from HBO and HBO Max
 
 ## Project Organization
 
